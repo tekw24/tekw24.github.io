@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='Composite Site Example 1.0.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1615539125093'/>
+    <property name='p2.atomic.composite.loading' value='false'/>
+  </properties>
+  <children size='2'>
+    <child location='../../../releases/1.0.0.v20210312-0847'/>
+    <child location='../../../releases/1.0.0.v20210312-0851'/>
+  </children>
+</repository>
